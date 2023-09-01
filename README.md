@@ -54,5 +54,40 @@ The original source is the [Carnegie Mellon University Pronuncing Dictionary](ht
 ...
 ```
 
+## Spanish
+
+```
+#  freq word
+1109867 de
+677127  la
+517925  que
+514187  y
+498562  el
+455194  en
+358662  a
+303229  los
+232670  se
+204272  las
+...
+```
+
+## Catalan
+The original source is [Softcatala](https://github.com/Softcatala/catalan-dict-tools/blob/master/frequencies/frequencies-dict-forms.txt)
+
+```
+#  freq word
+6010951 de
+4994785 la
+4657836 el
+4004551 i
+3896615 que
+3374723 a
+3284365 un
+2373551 l
+2140801 en
+1981974 va
+...
+```
+
 If you would like to collaborate with another language, feel free to send me a message or pull request.
 
